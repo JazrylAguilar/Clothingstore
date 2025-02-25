@@ -1,8 +1,11 @@
-body{background-color:#fffeee; text-align: center;}
+body{background-color:#F0C165; text-align: center;}
 p {font-size: 24px;}
-.textcontainerbackground {background-color: #eee9a2; border-radius: 15px; border-style: groove;}
+.textcontainerbackground {background-color: #cca558; border-radius: 15px; border-style: groove; text-align: left; width: 75%;}
 .productimg {width: 225px; height: 300px;}
-.productbg {border-style: groove; background-color:#eee9a2;}
+.productbg {border-style: groove; background-color:#F0C165;}
 .mainimg {display: flex; align-items: center; justify-content: center; border-style: groove; width: 100%; height: 600px; background-image: url(Images/1.jpg); object-fit: cover; background-position: 65%; background-position-y: 80%; background-origin: a;}
 h1 { font-size: 160px;  top: 50%; color: white; text-shadow: 0px 0px 50px #000000; font-family:fantasy;}
-.productcolor {background-color:#b3ac51;}
+.productcolor {background-color:#cca558;}
+.abtimg {width: 25%; height: 250px; border-radius: 5px; border-style: groove;}
+.left {float: left;}
+.right {float: right;}
